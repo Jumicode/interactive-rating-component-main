@@ -23,12 +23,6 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
-
-![Captura](Captura.JPG)
-![Captura](Captura2.JPG)
-![Captura](Captura3.JPG)
-
 
 ### Built with
 
