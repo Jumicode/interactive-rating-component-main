@@ -13,9 +13,7 @@ let n = document.querySelector(".number");
     btn.addEventListener('click', () => {
       
      n.innerHTML = btn.innerHTML;
-     
-     btn.style.color = "orange";
-    btn.style.background = "white"
+  
     });
   });
 
@@ -27,6 +25,9 @@ sumit.addEventListener("click",() =>{
 container.style.display = "none";
  Cal.style.display = "block";
 });
+
+
+
        
     
 

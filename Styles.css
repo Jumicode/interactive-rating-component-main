@@ -63,7 +63,7 @@ ul{
 }
 
 
-.Boton:hover{
+.Boton:active{
     background: hsl(25, 97%, 53%);
     color: hsl(0, 0%, 100%);
     transition: 00.5s;
